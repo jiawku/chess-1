@@ -16,5 +16,3 @@
 
 编译：
 建议使用IntelliJ IDEA编译，直接导入项目即可。
-
-test article
